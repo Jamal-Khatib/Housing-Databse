@@ -1,0 +1,1 @@
+a desktop database application using Java and SQL, which is a system for a university housing, that allows to save several data about students, staff, floors, etc. And doing many queries in addition to the main operations as insert, delete, update
